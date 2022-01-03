@@ -22,12 +22,12 @@
     <a href="#" class="logo"> <i class="fas fa-utensils"></i> 4FF </a>
     
     <nav class="navbar">
-        <a href="#home">trang chủ</a>
-        <a href="#about">about</a>
-        <a href="#popular">popular</a>
-        <a href="#menu">menu</a>
-        <a href="#order">order</a>
-        <a href="#blogs">blogs</a>
+        <a href="index.php">Trang chủ</a>
+        <a href="#popular">Phổ biến</a>
+        <a href="#menu">Thực đơn</a>
+        <a href="#order">Đặt món</a>
+        <a href="#about">Giới thiệu</a>
+        <a href="#blogs">Thảo luận</a>
     </nav>
 
     <div class="icons">
@@ -172,10 +172,9 @@
 <section class="home" id="home">
 
     <div class="content">
-        <span>welcome foodies</span>
-        <h3>different spices for the different tastes 😋</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis unde dolores temporibus hic quam debitis tenetur harum nemo.</p>
-        <a href="#" class="btn">order now</a>
+        <span>Chào mừng đến với cửa hàng!</span>
+        <h3>Các loại gia vị khác nhau mang đến khẩu vị khác nhau.</h3>
+        <a href="#" class="btn">Đặt ngay</a>
     </div>
 
     <div class="image">
@@ -193,32 +192,32 @@
 
     <a href="#" class="box">
         <img src="image/cat-1.png" alt="">
-        <h3>combo</h3>
+        <h3>Combo</h3>
     </a>
 
     <a href="#" class="box">
         <img src="image/cat-2.png" alt="">
-        <h3>pizza</h3>
+        <h3>Pizza</h3>
     </a>
 
     <a href="#" class="box">
         <img src="image/cat-3.png" alt="">
-        <h3>burger</h3>
+        <h3>Bánh mỳ kẹp</h3>
     </a>
 
     <a href="#" class="box">
         <img src="image/cat-4.png" alt="">
-        <h3>chicken</h3>
+        <h3>Gà chiên</h3>
     </a>
 
     <a href="#" class="box">
         <img src="image/cat-5.png" alt="">
-        <h3>dinner</h3>
+        <h3>Bữa tối</h3>
     </a>
 
     <a href="#" class="box">
         <img src="image/cat-6.png" alt="">
-        <h3>coffee</h3>
+        <h3>Cafe</h3>
     </a>
 
 </section>
@@ -235,26 +234,26 @@
     </div>
 
     <div class="content">
-        <span>why choose us?</span>
-        <h3 class="title">what's make our food delicious!</h3>
+        <span>Tại sao chọn chúng tôi ?</span>
+        <h3 class="title">Điều gì làm cho món ăn của chúng tôi trở nên ngon hơn!</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ut explicabo, numquam iusto est a ipsum assumenda tempore esse corporis?</p>
-        <a href="#" class="btn">read more</a>
+        <a href="#" class="btn">Đọc thêm</a>
         <div class="icons-container">
             <div class="icons">
                 <img src="image/serv-1.png" alt="">
-                <h3>fast delivery</h3>
+                <h3>Giao hàng nhanh</h3>
             </div>  
             <div class="icons">
                 <img src="image/serv-2.png" alt="">
-                <h3>fresh food</h3>
+                <h3>Món ăn sạch</h3>
             </div>   
             <div class="icons">
                 <img src="image/serv-3.png" alt="">
-                <h3>best quality</h3>
+                <h3>Chất lượng tốt</h3>
             </div>  
             <div class="icons">
                 <img src="image/serv-4.png" alt="">
-                <h3>24/7 support</h3>
+                <h3>Hỗ trợ 24/7</h3>
             </div>           
         </div>
     </div>
@@ -268,8 +267,7 @@
 <section class="popular" id="popular">
 
     <div class="heading">
-        <span>popular food</span>
-        <h3>our special dishes</h3>
+        <span>Món ăn phổ biến</span>
     </div>
 
     <div class="box-container">
@@ -280,17 +278,17 @@
                 <img src="image/food-1.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Há cảo chiên</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star-half-alt"></i>
-                    <span> (50) </span>
+                    <span> (124) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">90.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -300,17 +298,17 @@
                 <img src="image/food-2.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Bánh mỳ kẹp bò</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                    <span> (50) </span>
+                    <i class="fas fa-star"></i>
+                    <span> (180) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">55.000 VND</span></div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -320,17 +318,17 @@
                 <img src="image/food-3.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Pizza hải sản</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
+                    <i class="far fa-star"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">149.999 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -340,17 +338,17 @@
                 <img src="image/food-4.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Bánh mỳ cháy cạnh</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
+                    <i class="fas fa-star"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">49.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -360,7 +358,7 @@
                 <img src="image/food-5.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Pizza bò khô</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -369,8 +367,8 @@
                     <i class="fas fa-star-half-alt"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">99.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -380,7 +378,7 @@
                 <img src="image/food-6.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Pizza cà chua</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -389,8 +387,8 @@
                     <i class="fas fa-star-half-alt"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">80.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -400,7 +398,7 @@
                 <img src="image/food-7.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Bánh mỳ kẹp gà</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -409,8 +407,8 @@
                     <i class="fas fa-star-half-alt"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">55.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -420,7 +418,7 @@
                 <img src="image/food-8.png" alt="">
             </div>
             <div class="content">
-                <h3>delicious food</h3>
+                <h3>Pizza thập cẩm</h3>
                 <div class="stars">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -429,8 +427,8 @@
                     <i class="fas fa-star-half-alt"></i>
                     <span> (50) </span>
                 </div>
-                <div class="price">$40.00 <span>$50.00</span></div>
-                <a href="#" class="btn">add to cart</a>
+                <div class="price">130.000 VND</div>
+                <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
 
@@ -446,10 +444,10 @@
 
     <div class="row-banner">
         <div class="content">
-            <span>double cheese</span>
-            <h3>burger</h3>
-            <p>with cococola and fries</p>
-            <a href="#" class="btn">order now</a>
+            <span>Gấp đôi phô mai</span>
+            <h3>Bánh mỳ</h3>
+            <p>Với coca và khoai tây chiên</p>
+            <a href="#" class="btn">Đặt ngay</a>
         </div>
     </div>
 
@@ -457,25 +455,25 @@
         <div class="grid">
             <img src="image/banner-1.png" alt="">
             <div class="content">
-                <span>special offer</span>
-                <h3>upto 50% off</h3>
-                <a href="#" class="btn">order now</a>
+                <span>Giảm giá</span>
+                <h3>Lên đến 50%</h3>
+                <a href="#" class="btn">Đặt ngay</a>
             </div>
         </div>
         <div class="grid">
             <img src="image/banner-2.png" alt="">
             <div class="content center">
-                <span>special offer</span>
-                <h3>upto 25% extra</h3>
-                <a href="#" class="btn">order now</a>
+                <span>Giảm giá</span>
+                <h3>Lên đến 50%</h3>
+                <a href="#" class="btn">Đặt ngay</a>
             </div>
         </div>
         <div class="grid">        
             <img src="image/banner-3.png" alt="">
             <div class="content">
-                <span>limited offer</span>
-                <h3>100% cashback</h3>
-                <a href="#" class="btn">order now</a>
+                <span>Đặc biệt</span>
+                <h3>Hoàn tiền 100%</h3>
+                <a href="#" class="btn">Đặt ngay</a>
             </div>
         </div>
     </div>
@@ -489,8 +487,7 @@
 <section class="menu" id="menu">
 
     <div class="heading">
-        <span>our menu</span>
-        <h3>our top dishes</h3>
+        <span>Thực đơn của chúng tôi</span>
     </div>
 
     <div class="box-container">
@@ -498,48 +495,48 @@
         <a href="#" class="box">
             <img src="image/menu-1.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Bánh mỳ kẹp</h3>
+                <div class="price">40.000 VND</div>
             </div>
         </a>
 
         <a href="#" class="box">
             <img src="image/menu-2.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Pizza đậu cay</h3>
+                <div class="price">40.000 VND</div>
             </div>
         </a>
 
         <a href="#" class="box">
             <img src="image/menu-3.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Bánh mỳ bơ sữa</h3>
+                <div class="price">40.000 VND</div>
             </div>
         </a>
 
         <a href="#" class="box">
             <img src="image/menu-4.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Bánh mỳ kẹp pate</h3>
+                <div class="price">40.000 VND</div>
             </div>
         </a>
 
         <a href="#" class="box">
             <img src="image/menu-5.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Khoai tây chiên</h3>
+                <div class="price">30.000 VND</div>
             </div>
         </a>
 
         <a href="#" class="box">
             <img src="image/menu-6.png" alt="">
             <div class="content">
-                <h3>delicious food</h3>
-                <div class="price">$40.00</div>
+                <h3>Pizza trứng sốt</h3>
+                <div class="price">40.000 VND</div>
             </div>
         </a>
 
@@ -554,25 +551,25 @@
 <section class="order" id="order">
 
     <div class="heading">
-        <span>order now</span>
-        <h3>fastest home delivery</h3>
+        <span>Đặt ngay</span>
+        <h3>Giao hàng tận nơi</h3>
     </div>
 
     <div class="icons-container">
 
         <div class="icons">
             <img src="image/icon-1.png" alt="">
-            <h3>7:00am to 10:30pm</h3>
+            <h3>7:00 đến 22:30</h3>
         </div>
 
         <div class="icons">
             <img src="image/icon-2.png" alt="">
-            <h3>+123-456-7890</h3>
+            <h3>096 5269 082</h3>
         </div>
 
         <div class="icons">
             <img src="image/icon-3.png" alt="">
-            <h3>mumbai, india - 400104</h3>
+            <h3>57, Thái Hà - Đống Đa - Hà Nội</h3>
         </div>
 
     </div>
@@ -581,47 +578,36 @@
 
         <div class="flex">
             <div class="inputBox">
-                <span>your name</span>
-                <input type="text" placeholder="customer's name" name="" id="">
+                <span>Họ và tên</span>
+                <input type="text" placeholder="4 Funn Food" name="" id="">
             </div>
             <div class="inputBox">
-                <span>your number</span>
-                <input type="number" placeholder="customer's number" name="" id="">
-            </div>
-        </div>
-
-        <div class="flex">
-            <div class="inputBox">
-                <span>your order</span>
-                <input type="text" placeholder="food you want" name="" id="">
-            </div>
-            <div class="inputBox">
-                <span>how much</span>
-                <input type="number" placeholder="number or orders" name="" id="">
+                <span>Số điện thoại</span>
+                <input type="number" placeholder="096 5269 082" name="" id="">
             </div>
         </div>
 
         <div class="flex">
             <div class="inputBox">
-                <span>your details</span>
-                <input type="text" placeholder="your message" name="" id="">
+                <span>Lưu ý cho cửa hàng</span>
+                <input type="text" placeholder="Lưu ý..." name="" id="">
             </div>
             <div class="inputBox">
-                <span>pick up time</span>
+                <span>Chọn thời gian</span>
                 <input type="datetime-local">
             </div>
         </div>
 
         <div class="flex">
             <div class="inputBox">
-                <textarea placeholder="your address" id="" cols="30" rows="10"></textarea>
+                <textarea placeholder="Địa chỉ nhận hàng" id="" cols="30" rows="10"></textarea>
             </div>
             <div class="inputBox">
-                <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30153.788252261566!2d72.82321484621745!3d19.141690214227783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b63aceef0c69%3A0x2aa80cf2287dfa3b!2sJogeshwari%20West%2C%20Mumbai%2C%20Maharashtra%20400047!5e0!3m2!1sen!2sin!4v1634657187694!5m2!1sen!2sin" allowfullscreen="" loading="lazy"></iframe>
+                <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.525305593949!2d105.81907701493239!3d21.01165718600766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7dbe014e0b%3A0x741128e73301c5ff!2zNTcgUC4gVGjDoWkgSMOgLCBUcnVuZyBMaeG7h3QsIMSQ4buRbmcgxJBhLCBIw6AgTuG7mWk!5e0!3m2!1sen!2s!4v1641206928270!5m2!1sen!2s" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
 
-        <input type="submit" value="proceed to order" class="btn">
+        <input type="submit" value="Xác nhận đặt món" class="btn">
 
     </form>
 
@@ -634,8 +620,8 @@
 <section class="blogs" id="blogs">
 
     <div class="heading">
-        <span>our blogs</span>
-        <h3>our daily stories</h3>
+        <span>Thảo luận</span>
+        <h3>Những bài viết hàng ngày</h3>
     </div>
 
     <div class="box-container">
@@ -702,50 +688,52 @@
 <section class="footer">
 
     <div class="newsletter">
-        <h3>newsletter</h3>
+        <h3>Nhận thông tin mới nhất từ chúng tôi</h3>
         <form action="">
-            <input type="email" name="" placeholder="enter your email" id="">
-            <input type="submit" value="subscribe">
+            <input type="email" name="" placeholder="Nhập email của bạn" id="">
+            <input type="submit" value="Đăng ký">
         </form>
     </div>
 
     <div class="box-container">
 
         <div class="box">
-            <h3>our menu</h3>
-            <a href="#"><i class="fas fa-arrow-right"></i> pizza</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> burger</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> chicken</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> pasta</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> and more...</a>
+            <h3>Thực đơn</h3>
+            <a href="#"><i class="fas fa-arrow-right"></i> Pizza</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> Bánh mỳ</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> Gà chiên</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> Mỳ ý</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> Nhiều hơn nữa...</a>
         </div>
 
         <div class="box">
-            <h3>quick links</h3>
-            <a href="#home"> <i class="fas fa-arrow-right"></i> home</a>
-            <a href="#about"> <i class="fas fa-arrow-right"></i> about</a>
-            <a href="#popular"> <i class="fas fa-arrow-right"></i> popular</a>
-            <a href="#menu"> <i class="fas fa-arrow-right"></i> menu</a>
-            <a href="#order"> <i class="fas fa-arrow-right"></i> order</a>
-            <a href="#blogs"> <i class="fas fa-arrow-right"></i> blogs</a>
+            <h3>Đường dẫn</h3>
+            <a href="#home"> <i class="fas fa-arrow-right"></i> Trang chủ</a>
+            <a href="#popular"> <i class="fas fa-arrow-right"></i> Phổ biến</a>
+            <a href="#menu"> <i class="fas fa-arrow-right"></i> Thực đơn</a>
+            <a href="#order"> <i class="fas fa-arrow-right"></i> Đặt món</a>
+            <a href="#about"> <i class="fas fa-arrow-right"></i> Giới thiệu</a>
+            <a href="#blogs"> <i class="fas fa-arrow-right"></i> Thảo luận</a>
         </div>
 
         <div class="box">
-            <h3>extra links</h3>
-            <a href="#"> <i class="fas fa-arrow-right"></i> my order</a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> my account</a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> my favorite</a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> terms of use</a>
-            <a href="#"> <i class="fas fa-arrow-right"></i> privary policy</a>
+            <h3>Đường dẫn phụ</h3>
+            <a href="#"> <i class="fas fa-arrow-right"></i> Hóa đơn</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> Tài khoản</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> Món ăn yêu thích</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> Điều khoản sử dụng</a>
+            <a href="#"> <i class="fas fa-arrow-right"></i> Chính sách</a>
         </div>
 
         <div class="box">
-            <h3>opening hours</h3>
-            <p>monday : 7:00am to 10:00pm</p>
-            <p>tuesday : 7:00am to 10:00pm</p>
-            <p>wednesday : 7:00am to 10:00pm</p>
-            <p>friday : 7:00am to 10:00pm</p>
-            <p>saturday and sunday closed</p>
+            <h3>Giờ mở cửa</h3>
+            <p>Thứ 2: 7:00 đến 22:30</p>
+            <p>Thứ 3: 7:00 đến 22:30</p>
+            <p>Thứ 4: 7:00 đến 22:30</p>
+            <p>Thứ 5: 7:00 đến 22:30</p>
+            <p>Thứ 6: 7:00 đến 22:30</p>
+            <p>Thứ 7: 8:00 đến 22:00</p>
+            <p>Chủ nhật: 8:00 đến 22:00</p>
         </div>
 
     </div>
@@ -753,14 +741,14 @@
     <div class="bottom">
 
         <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="https://www.facebook.com/ArChir0/" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
+            <a href="https://www.instagram.com/ar_chiroo/" class="fab fa-instagram"></a>
             <a href="#" class="fab fa-linkedin"></a>
             <a href="#" class="fab fa-pinterest"></a>
         </div>
 
-        <div class="credit"> created <span>mr. web designer</span> | all rights reserved! </div>
+        <div class="credit"> Được làm bởi <span>Archiro</span> | Đã đăng ký bản quyền! </div>
         
     </div>
 
@@ -785,7 +773,7 @@
 
 
 <!-- custom js file link  -->
-<script src="js/script.js"></script>
+<script src="js/scripts.js"></script>
 
 </body>
 </html>

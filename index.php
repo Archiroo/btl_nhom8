@@ -67,10 +67,10 @@
                 <img src="image/menu-1.png" alt="">
                 <div class="content">
                     <h3>Bánh mỳ kẹp</h3>
-                    <span> Số lượng : </span>
+                    <span> Quantity : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Giá : </span>
+                    <span> Price : </span>
                     <span class="price"> 40.000 VND </span>
                 </div>
             </div>
@@ -79,10 +79,10 @@
                 <img src="image/food-3.png" alt="">
                 <div class="content">
                     <h3>Pizza hải sản</h3>
-                    <span> Số lượng : </span>
+                    <span> Quantity : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Giá :        </span>
+                    <span> Price : </span>
                     <span class="price"> 149.000 VND </span>
                 </div>
             </div>
@@ -92,10 +92,10 @@
                 <img src="image/menu-5.png" alt="">
                 <div class="content">
                     <h3>Khoai tây chiên</h3>
-                    <span> Số lượng : </span>
+                    <span> Quantity : </span>
                     <input type="number" name="" value="3" id="">
                     <br>
-                    <span> Giá : </span>
+                    <span> Price : </span>
                     <span class="price"> 90.000 VND </span>
                 </div>
             </div>
@@ -104,10 +104,10 @@
                 <img src="image/food-2.png" alt="">
                 <div class="content">
                     <h3>Bánh mỳ kẹp bò</h3>
-                    <span> Số lượng : </span>
+                    <span> Quantity : </span>
                     <input type="number" name="" value="2" id="">
                     <br>
-                    <span> Giá : </span>
+                    <span> Price : </span>
                     <span class="price"> 110.000 VND </span>
                 </div>
             </div>
@@ -116,10 +116,10 @@
                 <img src="image/food-5.png" alt="">
                 <div class="content">
                     <h3>Pizza bò khô</h3>
-                    <span> Số lượng : </span>
+                    <span> Quantity : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Giá : </span>
+                    <span> Price : </span>
                     <span class="price"> 99.000 VND </span>
                 </div>
             </div>
@@ -127,9 +127,6 @@
         </div>
 
     </div>
-        <a href="#" class="btn btn_process">Đặt hàng</a>
-    </div>
-
 
 </section>
 
@@ -221,7 +218,7 @@
     <div class="content">
         <span>Tại sao chọn chúng tôi ?</span>
         <h3 class="title">Điều gì làm cho món ăn của chúng tôi trở nên ngon hơn!</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos ut explicabo, numquam iusto est a ipsum assumenda tempore esse corporis?</p>
+        <p>Là công ty tiên phong lĩnh vực đồ ăn, chúng tôi cung cấp thức ăn ngon cho mọi người. Với hơn 14 năm phát triển, 4FF đã tích lũy và có kinh nghiệm trong các lĩnh vực khác nhau. Ngoài việc cung cấp đồ ăn, chúng tôi cũng đang theo đuổi mô hình kinh doanh tối ưu nhằm cung cấp đồ ăn ổn định và lợi ích chi phí.</p>
         <a href="#" class="btn">Đọc thêm</a>
         <div class="icons-container">
             <div class="icons">
@@ -622,8 +619,9 @@
                     <a href="#"> <i class="fas fa-tag"></i> burger / </a>
                     <a href="#"> <i class="fas fa-tag"></i> pizza  </a>
                 </div>
-                <h3>blog title goes here...</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, earum.</p>
+                <h3>Hamburger</h3>
+                <p>Hamburgers ở Úc và New Zealand thường có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua. Đây chắc chắn là một món bánh ngon mà bạn nên thử.
+</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -639,8 +637,9 @@
                     <a href="#"> <i class="fas fa-tag"></i> burger / </a>
                     <a href="#"> <i class="fas fa-tag"></i> pizza  </a>
                 </div>
-                <h3>blog title goes here...</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, earum.</p>
+                <h3>Burrito</h3>
+                <p>Burrito là gì? Burrito là một món bánh truyền thống của Mexico, có hai thành phần chính đó là vỏ bánh và nhân bánh. Sự kết hợp giữa các thành phần trong món bánh Burrito này mang đến cho người thưởng thức cảm giác thích thú, ngon miệng và bị cuốn hút bởi độ dai giòn của vỏ bánh kết hợp với phần nhân bánh thơm ngon. Đây chắc chắn là một món bánh ngon mà bạn nên thử.
+</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -656,8 +655,8 @@
                     <a href="#"> <i class="fas fa-tag"></i> burger / </a>
                     <a href="#"> <i class="fas fa-tag"></i> pizza  </a>
                 </div>
-                <h3>blog title goes here...</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem, earum.</p>
+                <h3>Hamburger Đặc Biệt</h3>
+                <p>Hamburgers có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua. Và đặc biệt là có khoai tây chiên. Đây chắc chắn là một món bánh ngon mà bạn nên thử.</p>
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
@@ -733,7 +732,7 @@
             <a href="#" class="fab fa-pinterest"></a>
         </div>
 
-        <div class="credit"> Được làm bởi <span>Archiro</span> | Đã đăng ký bản quyền! </div>
+        <div class="credit"> Được làm bởi <span>nhóm 8</span> | Đã đăng ký bản quyền! </div>
         
     </div>
 

@@ -41,13 +41,13 @@
                 </li>
                 <li>
                     <a href="homework.php">
-                        <span class="fas fa-paste"></span>
+                        <span class="fas fa-truck"></span>
                         <span>Nhà vận chuyển</span>
                     </a>
                 </li>
                 <li>
                     <a href="contact.php">
-                        <span class="fas fa-poll"></span>
+                        <span class="fas fa-shipping-fast"></span>
                         <span>Nhà cung cấp</span>
                     </a>
                 </li>

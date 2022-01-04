@@ -67,10 +67,10 @@
                 <img src="image/menu-1.png" alt="">
                 <div class="content">
                     <h3>Bánh mỳ kẹp</h3>
-                    <span> Quantity : </span>
+                    <span> Số lượng : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Price : </span>
+                    <span> Giá : </span>
                     <span class="price"> 40.000 VND </span>
                 </div>
             </div>
@@ -79,10 +79,10 @@
                 <img src="image/food-3.png" alt="">
                 <div class="content">
                     <h3>Pizza hải sản</h3>
-                    <span> Quantity : </span>
+                    <span> Số lượng : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Price : </span>
+                    <span> Giá :        </span>
                     <span class="price"> 149.000 VND </span>
                 </div>
             </div>
@@ -92,10 +92,10 @@
                 <img src="image/menu-5.png" alt="">
                 <div class="content">
                     <h3>Khoai tây chiên</h3>
-                    <span> Quantity : </span>
+                    <span> Số lượng : </span>
                     <input type="number" name="" value="3" id="">
                     <br>
-                    <span> Price : </span>
+                    <span> Giá : </span>
                     <span class="price"> 90.000 VND </span>
                 </div>
             </div>
@@ -104,10 +104,10 @@
                 <img src="image/food-2.png" alt="">
                 <div class="content">
                     <h3>Bánh mỳ kẹp bò</h3>
-                    <span> Quantity : </span>
+                    <span> Số lượng : </span>
                     <input type="number" name="" value="2" id="">
                     <br>
-                    <span> Price : </span>
+                    <span> Giá : </span>
                     <span class="price"> 110.000 VND </span>
                 </div>
             </div>
@@ -116,10 +116,10 @@
                 <img src="image/food-5.png" alt="">
                 <div class="content">
                     <h3>Pizza bò khô</h3>
-                    <span> Quantity : </span>
+                    <span> Số lượng : </span>
                     <input type="number" name="" value="1" id="">
                     <br>
-                    <span> Price : </span>
+                    <span> Giá : </span>
                     <span class="price"> 99.000 VND </span>
                 </div>
             </div>
@@ -127,6 +127,9 @@
         </div>
 
     </div>
+        <a href="#" class="btn btn_process">Đặt hàng</a>
+    </div>
+
 
 </section>
 

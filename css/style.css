@@ -67,7 +67,9 @@ section {
 .btn:hover {
   background: #130f40;
 }
-
+.btn_process{
+  margin-top: 3rem;
+}
 .header {
   position: -webkit-sticky;
   position: sticky;
@@ -295,6 +297,7 @@ section {
 .shopping-cart-container .products-container .box-container .box .content span.price {
   color: #27ae60;
   font-size: 1.7rem;
+  margin-left: 5rem;
 }
 
 .shopping-cart-container .products-container .box-container .box .content input {
@@ -302,7 +305,7 @@ section {
   padding: .5rem 1.2rem;
   font-size: 1.5rem;
   color: #130f40;
-  margin: .7rem 0;
+  margin: .7rem 0 0.7rem 1rem;
 }
 
 .shopping-cart-container .cart-total {

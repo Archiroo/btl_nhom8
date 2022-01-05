@@ -111,6 +111,7 @@ section {
 
 .header .navbar a:hover {
   color: #27ae60;
+  text-decoration: underline;
 }
 
 .header .icons div {

@@ -5,20 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>4Fun Food Website</title>
-
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
-
 </head>
 <body>
     
 <!-- header section starts  -->
-
 <header class="header">
-
     <a href="#" class="logo"> <i class="fas fa-utensils"></i> 4FF </a>
     
     <nav class="navbar">
@@ -29,7 +24,6 @@
         <a href="#about">Giới thiệu</a>
         <a href="#blogs">Thảo luận</a>
     </nav>
-
     <div class="icons">
         <div id="menu-btn" class="fas fa-bars"></div>
         <div id="search-btn" class="fas fa-search"></div>
@@ -38,30 +32,19 @@
     </div>
     
 </header>
-
 <!-- header section ends  -->
-
 <!-- search-form  -->
-
 <section class="search-form-container">
-
     <form action="">
         <input type="search" name="" placeholder="search here..." id="search-box">
         <label for="search-box" class="fas fa-search"></label>
     </form>
-
 </section>
-
 <!-- shopping-cart section  -->
-
 <section class="shopping-cart-container">
-
     <div class="products-container">
-
         <h3 class="title">Giỏ hàng</h3>
-
         <div class="box-container">
-
             <div class="box">
                 <i class="fas fa-times"></i>
                 <img src="image/menu-1.png" alt="">
@@ -86,7 +69,6 @@
                     <span class="price"> 149.000 VND </span>
                 </div>
             </div>
-
             <div class="box">
                 <i class="fas fa-times"></i>
                 <img src="image/menu-5.png" alt="">
@@ -123,17 +105,11 @@
                     <span class="price"> 99.000 VND </span>
                 </div>
             </div>
-
         </div>
-
     </div>
-
 </section>
-
 <!-- login-form  -->
-
 <div class="login-form-container">
-
     <form action="">
         <h3>login form</h3>
         <input type="email" name="" placeholder="enter your email" id="" class="box">
@@ -146,75 +122,53 @@
         <p>forget password? <a href="#">click here</a></p>
         <p>don't have an account? <a href="#">create one</a></p>
     </form>
-
 </div>
-
 <!-- home section starts  -->
-
 <section class="home" id="home">
-
     <div class="content">
         <span>Chào mừng đến với cửa hàng!</span>
         <h3>Các loại gia vị khác nhau mang đến khẩu vị khác nhau.</h3>
         <a href="#" class="btn">Đặt ngay</a>
     </div>
-
     <div class="image">
         <img src="image/home-img.png" alt="" class="home-img">
         <img src="image/home-parallax-img.png" alt="" class="home-parallax-img">
     </div>
-
 </section>
-
 <!-- home section ends  -->
-
 <!-- category section starts  -->
-
 <section class="category">
-
     <a href="#" class="box">
         <img src="image/cat-1.png" alt="">
         <h3>Combo</h3>
     </a>
-
     <a href="#" class="box">
         <img src="image/cat-2.png" alt="">
         <h3>Pizza</h3>
     </a>
-
     <a href="#" class="box">
         <img src="image/cat-3.png" alt="">
         <h3>Bánh mỳ kẹp</h3>
     </a>
-
     <a href="#" class="box">
         <img src="image/cat-4.png" alt="">
         <h3>Gà chiên</h3>
     </a>
-
     <a href="#" class="box">
         <img src="image/cat-5.png" alt="">
         <h3>Bữa tối</h3>
     </a>
-
     <a href="#" class="box">
         <img src="image/cat-6.png" alt="">
         <h3>Cafe</h3>
     </a>
-
 </section>
-
 <!-- category section ends -->
-
-
 <!-- about section starts  -->
-
 <section class="about" id="about">
-
     <div class="image">
         <img src="image/about-img.png" alt="">
     </div>
-
     <div class="content">
         <span>Tại sao chọn chúng tôi ?</span>
         <h3 class="title">Điều gì làm cho món ăn của chúng tôi trở nên ngon hơn!</h3>
@@ -239,21 +193,14 @@
             </div>           
         </div>
     </div>
-
 </section>
-
 <!-- about section ends -->
-
 <!-- popular section starts  -->
-
 <section class="popular" id="popular">
-
     <div class="heading">
         <span>Món ăn phổ biến</span>
     </div>
-
     <div class="box-container">
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -273,7 +220,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -293,7 +239,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -313,7 +258,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -333,7 +277,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -353,7 +296,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -373,7 +315,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -393,7 +334,6 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
         <div class="box">
             <a href="#" class="fas fa-heart"></a>
             <div class="image">
@@ -413,17 +353,11 @@
                 <a href="#" class="btn">Thêm vào giỏ hàng</a>
             </div>
         </div>
-
     </div>
-
 </section>
-
 <!-- popular section ends -->
-
 <!-- banner section starts  -->
-
 <section class="banner">
-
     <div class="row-banner">
         <div class="content">
             <span>Gấp đôi phô mai</span>
@@ -432,7 +366,6 @@
             <a href="#" class="btn">Đặt ngay</a>
         </div>
     </div>
-
     <div class="grid-banner">
         <div class="grid">
             <img src="image/banner-1.png" alt="">
@@ -459,21 +392,14 @@
             </div>
         </div>
     </div>
-
 </section>
-
 <!-- banner section ends -->
-
 <!-- menu section starts  -->
-
 <section class="menu" id="menu">
-
     <div class="heading">
         <span>Thực đơn của chúng tôi</span>
     </div>
-
     <div class="box-container">
-
         <a href="#" class="box">
             <img src="image/menu-1.png" alt="">
             <div class="content">
@@ -481,7 +407,6 @@
                 <div class="price">40.000 VND</div>
             </div>
         </a>
-
         <a href="#" class="box">
             <img src="image/menu-2.png" alt="">
             <div class="content">
@@ -489,7 +414,6 @@
                 <div class="price">40.000 VND</div>
             </div>
         </a>
-
         <a href="#" class="box">
             <img src="image/menu-3.png" alt="">
             <div class="content">
@@ -497,7 +421,6 @@
                 <div class="price">40.000 VND</div>
             </div>
         </a>
-
         <a href="#" class="box">
             <img src="image/menu-4.png" alt="">
             <div class="content">
@@ -505,7 +428,6 @@
                 <div class="price">40.000 VND</div>
             </div>
         </a>
-
         <a href="#" class="box">
             <img src="image/menu-5.png" alt="">
             <div class="content">
@@ -513,7 +435,6 @@
                 <div class="price">30.000 VND</div>
             </div>
         </a>
-
         <a href="#" class="box">
             <img src="image/menu-6.png" alt="">
             <div class="content">
@@ -521,43 +442,30 @@
                 <div class="price">40.000 VND</div>
             </div>
         </a>
-
     </div>
-
 </section>
-
 <!-- menu section ends -->
-
 <!-- order section starts  -->
-
 <section class="order" id="order">
-
     <div class="heading">
         <span>Đặt ngay</span>
         <h3>Giao hàng tận nơi</h3>
     </div>
-
     <div class="icons-container">
-
         <div class="icons">
             <img src="image/icon-1.png" alt="">
             <h3>7:00 đến 22:30</h3>
         </div>
-
         <div class="icons">
             <img src="image/icon-2.png" alt="">
             <h3>096 5269 082</h3>
         </div>
-
         <div class="icons">
             <img src="image/icon-3.png" alt="">
             <h3>57, Thái Hà - Đống Đa - Hà Nội</h3>
         </div>
-
     </div>
-
     <form action="">
-
         <div class="flex">
             <div class="inputBox">
                 <span>Họ và tên</span>
@@ -568,7 +476,6 @@
                 <input type="number" placeholder="096 5269 082" name="" id="">
             </div>
         </div>
-
         <div class="flex">
             <div class="inputBox">
                 <span>Lưu ý cho cửa hàng</span>
@@ -579,7 +486,6 @@
                 <input type="datetime-local">
             </div>
         </div>
-
         <div class="flex">
             <div class="inputBox">
                 <textarea placeholder="Địa chỉ nhận hàng" id="" cols="30" rows="10"></textarea>
@@ -588,26 +494,17 @@
                 <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.525305593949!2d105.81907701493239!3d21.01165718600766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7dbe014e0b%3A0x741128e73301c5ff!2zNTcgUC4gVGjDoWkgSMOgLCBUcnVuZyBMaeG7h3QsIMSQ4buRbmcgxJBhLCBIw6AgTuG7mWk!5e0!3m2!1sen!2s!4v1641206928270!5m2!1sen!2s" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
-
         <input type="submit" value="Xác nhận đặt món" class="btn">
-
     </form>
-
 </section>
-
 <!-- order section ends -->
-
 <!-- blogs section starts  -->
-
 <section class="blogs" id="blogs">
-
     <div class="heading">
         <span>Thảo luận</span>
         <h3>Những bài viết hàng ngày</h3>
     </div>
-
     <div class="box-container">
-
         <div class="box">
             <div class="image">
                 <h3> <i class="fas fa-calendar"></i> 21st may, 2021 </h3>
@@ -625,7 +522,6 @@
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
-
         <div class="box">
             <div class="image">
                 <h3> <i class="fas fa-calendar"></i> 21st may, 2021 </h3>
@@ -643,7 +539,6 @@
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
-
         <div class="box">
             <div class="image">
                 <h3> <i class="fas fa-calendar"></i> 21st may, 2021 </h3>
@@ -660,17 +555,11 @@
                 <a href="#" class="btn">read more</a>
             </div>
         </div>
-
     </div>
-
 </section>
-
 <!-- blogs section ends -->
-
 <!-- footer section starts  -->
-
 <section class="footer">
-
     <div class="newsletter">
         <h3>Nhận thông tin mới nhất từ chúng tôi</h3>
         <form action="">
@@ -678,9 +567,7 @@
             <input type="submit" value="Đăng ký">
         </form>
     </div>
-
     <div class="box-container">
-
         <div class="box">
             <h3>Thực đơn</h3>
             <a href="#"><i class="fas fa-arrow-right"></i> Pizza</a>
@@ -689,7 +576,6 @@
             <a href="#"><i class="fas fa-arrow-right"></i> Mỳ ý</a>
             <a href="#"><i class="fas fa-arrow-right"></i> Nhiều hơn nữa...</a>
         </div>
-
         <div class="box">
             <h3>Đường dẫn</h3>
             <a href="#home"> <i class="fas fa-arrow-right"></i> Trang chủ</a>
@@ -699,7 +585,6 @@
             <a href="#about"> <i class="fas fa-arrow-right"></i> Giới thiệu</a>
             <a href="#blogs"> <i class="fas fa-arrow-right"></i> Thảo luận</a>
         </div>
-
         <div class="box">
             <h3>Đường dẫn phụ</h3>
             <a href="#"> <i class="fas fa-arrow-right"></i> Hóa đơn</a>
@@ -708,7 +593,6 @@
             <a href="#"> <i class="fas fa-arrow-right"></i> Điều khoản sử dụng</a>
             <a href="#"> <i class="fas fa-arrow-right"></i> Chính sách</a>
         </div>
-
         <div class="box">
             <h3>Giờ mở cửa</h3>
             <p>Thứ 2: 7:00 đến 22:30</p>
@@ -719,11 +603,8 @@
             <p>Thứ 7: 8:00 đến 22:00</p>
             <p>Chủ nhật: 8:00 đến 22:00</p>
         </div>
-
     </div>
-
     <div class="bottom">
-
         <div class="share">
             <a href="https://www.facebook.com/ArChir0/" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
@@ -731,33 +612,13 @@
             <a href="#" class="fab fa-linkedin"></a>
             <a href="#" class="fab fa-pinterest"></a>
         </div>
-
         <div class="credit"> Được làm bởi <span>nhóm 8</span> | Đã đăng ký bản quyền! </div>
         
     </div>
-
 </section>
-
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- footer section ends -->
 <!-- custom js file link  -->
 <script src="js/scripts.js"></script>
-
 </body>
 </html>

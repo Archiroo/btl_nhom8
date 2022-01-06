@@ -189,10 +189,10 @@
                             <ul class="header__cart-list-item">
                                 <!--giỏ hàng item-->
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/food-2.png" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Bánh mỳ kẹp bò</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -360,7 +360,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <button class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</button>
+                            <button class="header__cart-view-cart btn btn--primary btn__them">Xem giỏ hàng</button>
                         </div>
                     </div>
                 </div>

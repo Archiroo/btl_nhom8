@@ -9,8 +9,8 @@
   outline: none;
   border: none;
   text-decoration: none;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
+  /* -webkit-transition: .2s linear; */
+  /* transition: .2s linear; */
 }
 
 html {
@@ -232,7 +232,7 @@ section {
   -webkit-animation: fadeUp .4s linear;
           animation: fadeUp .4s linear;
 }
-
+/* TÔI NGHĨ ĐÂY LÀ PHẦN BẮT ĐẦU CSS CỦA PHẦN MENU */
 .shopping-cart-container .products-container .box-container {
   display: -ms-grid;
   display: grid;
@@ -296,7 +296,7 @@ section {
   color: #130f40;
   margin: .7rem 0 0.7rem 1rem;
 }
-
+/* KO NHẦM THÌ ĐÂY LÀ PHẦN KẾT NÀY LÀ CỦA MENU CŨ */
 .shopping-cart-container .cart-total {
   margin-top: 2rem;
   border: 0.1rem solid rgba(0, 0, 0, 0.2);
@@ -732,7 +732,60 @@ section {
   color: #fff;
   padding-top: .5rem;
 }
+/* test  menu  MỚI TÔI LÀM */
+.food-menu .heading{
+    padding: 15px;
+}
+.food-menu .list-menu{
+    font-size: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 135px;
+    padding-top: 20px;
+    grid-gap: 30px;/* khoảng trống giữa các hàng và các cột */
+}
+.food-menu .content-menu{
+    padding: 30px 15px ;
+    display: flex;
+    background-color: #f7f7f7;
+    border-radius: 10px;
 
+}
+.food-menu .img-menu img{
+    border-radius : 10px;
+    width: 130px;
+}
+.food-menu .list-menu .description-food{
+    margin-left: 54px;
+    line-height: 24px;
+}
+.food-menu .list-menu .description-food h4{
+    font-size: 20px;
+}
+.food-menu .list-menu .description-food h5{
+    font-size: 15px;
+}
+.food-menu .list-menu .description-food p{
+    opacity: 0.6;
+}
+.food-menu .list-menu .order-btn{
+    background-color: #27ae60;
+    color: #fff;
+    border:0;
+    margin: 5px 0;
+    padding:3px;
+    border-radius: 5px;
+}
+.food-menu .list-menu .content-menu:hover{
+    cursor: pointer;
+    background-color: #27ae60;
+    color:#fff;
+}
+.food-menu .list-menu .order-btn:hover{
+    cursor: pointer;
+}
+
+/* enddddddddddddddddddddddd test menu */
 .menu .box-container {
   display: -ms-grid;
   display: grid;

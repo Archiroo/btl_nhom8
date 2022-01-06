@@ -208,12 +208,12 @@
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/016f33534b47d593c8a9d142c3e579d6_tn" alt="" class="header__cart-img">
+                                    <img src="image/banhmikepbate.png">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">The ordinary Ha 2%</h5>
+                                            <h5 class="header__cart-item-name">Bánh mì kẹp pate</h5>
                                             <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-price">80.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
                                                 <span class="header__car-item-qnt">2</span>
                                             </div>
@@ -230,11 +230,11 @@
                                     <img src="https://cf.shopee.vn/file/c890d6f7ed3a825e5b66068842bbfc7a_tn" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Sữa rửa mặt cerave</h5>
+                                            <h5 class="header__cart-item-name">Khoai tây chiên</h5>
                                             <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-price">90.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
+                                                <span class="header__car-item-qnt">3</span>
                                             </div>
                                         </div>
                                         <div class="header__cart-item-body">
@@ -249,11 +249,30 @@
                                     <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Pizza trứng sốt</h5>
                                             <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-price">40.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
+                                                <span class="header__car-item-qnt">1</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: 15g
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="food-7.png" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Bánh mì cháy cạnh</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">49.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">1</span>
                                             </div>
                                         </div>
                                         <div class="header__cart-item-body">
@@ -268,11 +287,11 @@
                                     <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Pizza bò khô</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
+                                                <span class="header__car-item-qnt">1</span>
                                             </div>
                                         </div>
                                         <div class="header__cart-item-body">
@@ -283,82 +302,7 @@
                                         </div>
                                     </div>
                                 </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
+
                             </ul>
                             <button class="header__cart-view-cart btn btn--primary btn__them">Xem giỏ hàng</button>
                         </div>
@@ -729,8 +673,9 @@
         </div>
     </section>
     <!-- banner section ends -->
-    <!-- menu section starts  -->
-    <section class="menu" id="menu">
+    <!-- menu section starts  =>> BỎ -->
+
+    <!-- <section class="menu" id="menu">
         <div class="heading">
             <span>Thực đơn</span>
         </div>
@@ -799,8 +744,147 @@
                 </div>
             </a>
         </div>
-    </section>
-    <!-- menu section ends -->
+    </section> -->
+
+    <!-- menu section ends   ==>> BỎ  -->
+
+    <!-- start test -->
+            <!-- menu food -->
+            <div class="food-menu">
+                <div class="heading">
+                    <span>Thực đơn</span>
+                </div>
+        <!--  -->
+                        <div class="list-menu">
+        <!-- menu1 -->
+                            <div class="content-menu">
+                                <div class="img-menu">
+                                    <img src="image/menu-1.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Bánh mì kẹp</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input  class="order-btn"type="button" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu2 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-2.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Pizza đậu cay</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu3 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-3.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Bánh mì bơ sữa</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu4 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-4.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Bánh mì kẹp pate</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu5 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-5.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Khoai tây chiên</h4>
+                                    <h5>30.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu6 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-6.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Pizza trứng sốt</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu7 -->
+                            <div class="content-menu">
+        
+                                <div class="img-menu">
+                                    <img src="image/menu-4.png" alt="">
+                                </div>
+        
+                                <div class="description-food">
+                                    <h4>Bánh mỳ kẹp pate</h4>
+                                    <h5>40.000 VND</h5>
+                                    <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                    <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                                </div>
+                            </div>
+        <!-- menu5 -->
+                            <div class="content-menu">
+                            
+                            <div class="img-menu">
+                                <img src="image/menu-5.png" alt="">
+                            </div>
+
+                            <div class="description-food">
+                                <h4>Khoai tây chiên</h4>
+                                <h5>30.000 VND</h5>
+                                <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                            </div>
+                        </div>                           
+        <!-- menu5 -->
+                            <div class="content-menu">
+                            
+                            <div class="img-menu">
+                                <img src="image/menu-6.png" alt="">
+                            </div>
+
+                            <div class="description-food">
+                                <h4>Pizza trứng sốt</h4>
+                                <h5>40.000 VND</h5>
+                                <p>Made with italian Sauce,Chicken and organice vegatables</p>
+                                <!-- <input class="order-btn" type="submit" value="Order Now"> -->
+                            </div>
+                        </div>
+ 
+                </div>
+        <!-- end food menu -->   
+    <!-- end test -->
     <!-- order section starts  -->
     <section class="order" id="order">
         <div class="heading">

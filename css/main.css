@@ -124,12 +124,9 @@
 .pagination-item{
     margin: 0 12px;
 }
-.pagination-item--active .pagination-item__link{
-    color: var(--white--color);
-    background-color: var(--primary-color);
-}
+
 .pagination-item--active .pagination-item__link:hover{
-    background-color: #f35c3e;
+    background-color: #f6b93b;
 }
 .pagination-item__link{
     --height: 30px;
@@ -143,4 +140,8 @@
     line-height: var(--height);
     text-align: center;
     border-radius: 2px;
+}
+.pagination-item__link:hover{
+    background-color: #FFCE3E;
+    color: #fff;
 }

@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lykmapipo/themify-icons@0.1.2/css/themify-icons.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
-    <link rel="stylesheet" href="admin.css">
+    <link rel="stylesheet" href="nhanvien.css">
     <title>4Fun Food Website</title>
 </head>
 
@@ -28,27 +28,15 @@
                     </a>
                 </li>
                 <li>
-                    <a href="./employee.php">
-                        <span class="fas fa-user-friends"></span>
-                        <span>Nhân viên</span>
+                    <a href="./hoadon.php">
+                        <span class="fas fa-poll"></span>
+                        <span>Hóa đơn</span>
                     </a>
                 </li>
                 <li>
-                    <a href="./thucdon.php">
+                    <a href="./thongke.php">
                         <span class="fas fa-folder"></span>
-                        <span>Thực đơn</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="./nvc.php">
-                        <span class="fas fa-truck"></span>
-                        <span>Nhà vận chuyển</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="./ncc.php">
-                        <span class="fas fa-shipping-fast"></span>
-                        <span>Nhà cung cấp</span>
+                        <span>Thống kê</span>
                     </a>
                 </li>
                 <li>
@@ -73,3 +61,4 @@
                 </div>
             </div>
         </header> 
+              

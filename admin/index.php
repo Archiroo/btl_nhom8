@@ -8,7 +8,7 @@ include('header.php');
                 <span class="fas fa-user-friends"></span>
                 <div>
 
-                    <h5>Nhân viên</h5>
+                    <h5>QL nhân viên</h5>
                     <h4></h4>
                     <a href="./employee.php">
                         Xem tất cả
@@ -21,7 +21,7 @@ include('header.php');
                 <span class="fas fa-folder"></span>
                 <div>
 
-                    <h5>Thực đơn</h5>
+                    <h5>QL thực đơn</h5>
                     <h4></h4>
                     <a href="./thucdon.php">
                         Xem tất cả
@@ -79,63 +79,69 @@ include('header.php');
                         <tbody>
                         <tr>
                         <td>1</td>
-                        <td>Nguyễn Văn Tân</td>
-                        <td>0123333333</td>
+                        <td>Đào Văn Tân</td>
+                        <td>012 333 3333</td>
                         <td>Pizza hải sản</td>
-                        <td>129.000</td>
-                        <td>6/1/2022</td>
+                        <td>129.000 VNĐ</td>
+                        <td style="text-align: center">6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="hoanthanh">Hoàn thành</td>
+                        
                     </tr>
                     <tr>
                         <td>2</td>
                         <td>Hồ Hồng Quân</td>
-                        <td>0124444444</td>
+                        <td>012 444 4444</td>
                         <td>Pizza hải sản</td>
-                        <td>129.000</td>
+                        <td>129.000 VNĐ</td>
                         <td>6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="hoanthanh">Hoàn thành</td>
+                        
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Vương</td>
-                        <td>0125555555</td>
+                        <td>Nguyễn Vương</td>
+                        <td>012 555 5555</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
                         <td>6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="huy">Hủy</td>
+                        
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Long</td>
-                        <td>0126666666</td>
+                        <td>Trịnh Duy Long</td>
+                        <td>012 666 6666</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
                         <td>6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="hoanthanh">Hoàn thành</td>
+                        
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td>Trang</td>
-                        <td>0127777777</td>
+                        <td>Hoàng Trang</td>
+                        <td>012 777 7777</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
                         <td>6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="huy">Hủy</td>
+                        
                     </tr>
                     <tr>
                         <td>6</td>
                         <td>Tuấn Anh</td>
-                        <td>0128888888</td>
+                        <td>012 888 8888</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
                         <td>6/1/2022</td>
                         <td>Nguyễn Minh Đức</td>
                         <td class="hoanthanh">Hoàn thành</td>
+                        
                     </tr>
                         </tbody>
                     </table>

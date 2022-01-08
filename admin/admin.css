@@ -10,7 +10,7 @@
     --border-hover: 0.1rem solid var(--black);
     --box-shadow:0 0.5rem 1rem rgba(0,0,0,0.1);
     --main-color: #027581;
-    --main-color-hover: #05cae0;
+    --main-color-hover: #0496a7;
     --color-dark: #1D2231;
     --text-gray: #8894a5;
     --border: 0.1rem solid rgba(0,0,0,0.1);
@@ -211,7 +211,7 @@ main {
 .dash-title {
     color: var(--color-dark);
     margin-bottom: 1rem;
-    font-size: 3rem;
+    font-size: 2.5rem;
     color: var(--black);
     font-weight: 450;
 }
@@ -219,7 +219,8 @@ main {
 .dash-cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 3rem;
+    gap: 2rem;
+    width: 90%;
 }
 
 .card-single {
@@ -229,7 +230,7 @@ main {
 }
 
 .card-body {
-    padding: 2rem;
+    padding: 1.5rem;
     display: flex;
     align-items: center;
 }
@@ -237,7 +238,7 @@ main {
 .card-body span {
     font-size: 3rem;
     color: #777;
-    padding-right: 1.5rem;
+    padding-right: 2.3rem;
 }
 
 .card-body h5 {
@@ -307,12 +308,7 @@ td {
 .huy{
     color: red;
 }
-th{
-    text-align: center;
-}
-td{
-    text-align: center;
-}
+
 tbody tr:nth-child(even) { /*xen kẽ*/
     background: #f9fafc;
 }
@@ -519,9 +515,7 @@ select{
 h1{
     font-size: 3rem;
 }
-.nhanvien{
-    padding-left: 2rem;
-}
+
 .btn-nhanvien button{
     padding: 10px;
     border-radius: 5px;

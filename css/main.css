@@ -31,18 +31,19 @@
     flex-wrap: wrap; /*vượt quá thì nhảy xuống hàng*/
     margin-left: -5px;
     margin-right: -5px;
+    gap: 2rem;
     
 }
 /* Test */
 .grid__column-2{
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 1rem;
+    padding-right: 1rem;
     width: 16.6667%;
 }
 .grid__column-2-4{
     padding-left: 5px;
     padding-right: 5px;
-    width: 20%; /*20% trong 66.7% còn lại*/
+    width: 23.5%; /*20% trong 66.7% còn lại*/
 }
 .grid__column-10{
     padding-left: 5px;
@@ -120,6 +121,7 @@
     justify-content: center;
     align-items: center;
     list-style: none;
+    margin: 0 auto;
 }
 .pagination-item{
     margin: 0 12px;

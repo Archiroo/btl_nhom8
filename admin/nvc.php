@@ -2,22 +2,19 @@
 include('header.php');
 ?>
 <main>
-    <h1>Thông tin nhà vận chuyển</h1>
-    <br>
-    <br>
     <div class="nhanvien">
         <div class="btn-nhanvien">
-            <button><a href="./themnvc.php">Thêm nhà vận chuyển</a></button>
+            <button><a href="./themnvc.php"><i class="fas fa-plus"></i> Thêm nhà vận chuyển</a></button>
         </div>
         <br>
         <section class="bang">
             <table class="bangnhanvien">
-                <h3>Bảng thông tin nhà vận chuyển</h3>
+                <h3>Quản lý nhà vận chuyển</h3>
                 <thead>
                     <tr>
                         <th>STT</th>
                         <th>Tên nhà vận chuyển</th>
-                        <th>Số điện thoại</th>
+                        <th>Điện thoại</th>
                         <th>Sửa thông tin nhà vận chuyển</th>
                         <th>Xóa nhà vận chuyển</th>
                     </tr>

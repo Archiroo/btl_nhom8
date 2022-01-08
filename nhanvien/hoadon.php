@@ -2,22 +2,19 @@
 include('header.php');
 ?>
 <main>
-    <h1>Thông tin hóa đơn</h1>
-    <br>
-    <br>
     <div class="nhanvien">
         <div class="btn-nhanvien">
-            <button><a href="./them-hd.php">Thêm hóa đơn</a></button>
+            <button><a href="./them-hd.php"><i class="fas fa-plus"></i> Thêm hóa đơn</a></button>
         </div>
         <br>
         <section class="bang">
             <table class="bangnhanvien">
-                <h3>Bảng thông tin thực đơn</h3>
+                <h3>Quản lý hóa đơn</h3>
                 <thead>
                     <tr>
                         <th>STT</th>
                         <th>Khách hàng</th>
-                        <th>Số điện thoại</th>
+                        <th>Điện thoại</th>
                         <th>Món ăn</th>
                         <th>Giá tiền</th>
                         <th>Ngày hóa đơn</th>
@@ -29,7 +26,7 @@ include('header.php');
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Nguyễn Văn Tân</td>
+                        <td>Đào Văn Tân</td>
                         <td>0123333333</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
@@ -59,7 +56,7 @@ include('header.php');
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Vương</td>
+                        <td>Nguyễn Vương</td>
                         <td>0125555555</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
@@ -74,7 +71,7 @@ include('header.php');
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Long</td>
+                        <td>Trịnh Duy Long</td>
                         <td>0126666666</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>
@@ -89,7 +86,7 @@ include('header.php');
                     </tr>
                     <tr>
                         <td>5</td>
-                        <td>Trang</td>
+                        <td>Hoàng Trang</td>
                         <td>0127777777</td>
                         <td>Pizza hải sản</td>
                         <td>129.000</td>

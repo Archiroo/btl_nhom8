@@ -2,17 +2,15 @@
 include('header.php');
 ?>
 <main>
-    <h1>Thông tin thực đơn</h1>
-    <br>
-    <br>
+
     <div class="nhanvien">
         <div class="btn-nhanvien">
-            <button><a href="./themma.php">Thêm món ăn</a></button>
+            <button><a href="./themma.php"><i class="fas fa-plus"></i> Thêm món ăn</a></button>
         </div>
         <br>
         <section class="bang">
             <table class="bangnhanvien">
-                <h3>Bảng thông tin thực đơn</h3>
+                <h3>Quản lý thực đơn</h3>
                 <thead>
                     <tr>
                         <th>STT</th>

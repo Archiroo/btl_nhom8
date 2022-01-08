@@ -2,7 +2,6 @@
 include('header.php');
 ?>
 <main>
-    <h1>Thống kê</h1>
     <div class="nhanvien">
         <form action="" method="POST" class="register">
             <div class="form-group">

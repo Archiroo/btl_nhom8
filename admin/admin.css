@@ -220,7 +220,8 @@ main {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 2rem;
-    width: 90%;
+    width: 100%;
+    padding: 2rem 0;
 }
 
 .card-single {
@@ -236,15 +237,16 @@ main {
 }
 
 .card-body span {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #777;
-    padding-right: 2.3rem;
+    padding: 0 2.3rem 0 1rem;
 }
 
 .card-body h5 {
     color: var(--black);
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 1.7rem;
+    margin-bottom: 0.7rem;
 }
 
 .card-body h4 {
@@ -254,7 +256,8 @@ main {
 .card-body a {
     color: var(--main-color);
     text-decoration: underline;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
+    margin-top: 1rem;
 }
 
 
@@ -549,4 +552,7 @@ button:hover{
 }
 button a:hover{
     background-color: var(--main-color-hover);
+}
+.text_center{
+    text-align: center;
 }

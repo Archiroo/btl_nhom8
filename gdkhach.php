@@ -109,9 +109,9 @@
                             Trợ giúp</a>
                         <!--ấn vào được-->
                     </li>
-                    <a href="#" class="header__navbar-item header__navbar-item-strong header__navbar-item--separate" id="login-btn">Đăng nhập</a>
-                    <a href="#" class="header__navbar-item header__navbar-item-strong" id="sign-up">Đăng ký</a>
-                    <!-- <li class="header__navbar-item header-navbar-user">
+                    <!-- <a href="#" class="header__navbar-item header__navbar-item-strong header__navbar-item--separate" id="login-btn">Đăng nhập</a>
+                    <a href="#" class="header__navbar-item header__navbar-item-strong" id="sign-up">Đăng ký</a> -->
+                    <li class="header__navbar-item header-navbar-user">
                         <img src="image/admin.jpg" alt="" class="header__navbar-user-img">
                         <span class="header__navbar-user-name">4FFood</span>
 
@@ -123,10 +123,10 @@
                                 <a href="">Đơn mua</a>
                             </li>
                             <li class="header__navbar-user-item header__navbar-user-item--separate">
-                                <a href="">Đăng xuất</a>
+                                <a href="index.php">Đăng xuất</a>
                             </li>
                         </ul>
-                    </li> -->
+                    </li>
                     <!-- Form đăng nhập -->
                     <div class="login-form-container login">
                         <div id="close-login-btn" class="fas fa-times close"></div>
@@ -214,9 +214,153 @@
                 <div class="header__cart">
                     <div class="header__cart-wrap">
                         <i class="header__cart-icon fas fa-shopping-cart"></i>
-                        <span class="header__cart-notice">0</span>
+                        <span class="header__cart-notice">7</span>
 
-                        
+                        <!--không có sản phẩm header__cart-list--no-cart-->
+                        <div class="header__cart-list">
+                            <img src="image/no_cart.png" alt="" class="header__cart-no-cart-img">
+                            <span class="header__cart-list-no-cart-msg">Chưa có sản phẩm</span>
+
+                            <h4 class="header__cart-heading">Sản phẩm đã thêm</h4>
+                            <ul class="header__cart-list-item">
+                                <!--giỏ hàng item-->
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="header__cart-item">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
+                                    <div class="header__cart-item-info">
+                                        <div class="header__cart-item-head">
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
+                                            <div class="header__cart-item-price-wrap">
+                                                <span class="header__cart-item-price">99.000đ</span>
+                                                <span class="header__cart-item-multiply">x</span>
+                                                <span class="header__car-item-qnt">2</span>
+                                            </div>
+                                        </div>
+                                        <div class="header__cart-item-body">
+                                            <span class="header__cart-item-description">
+                                                Phân loại: L
+                                            </span>
+                                            <span class="header__cart-item-remove">Xóa</span>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                            <a href="category.php" class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -757,7 +901,6 @@
             </form>
         </div>
         <div class="box-container">
-        <div class="box-container">
             <div class="box">
                 <h3>Hỗ trợ</h3>
                 <a href="#"><i class="fas fa-arrow-right"></i> Trung tâm trợ giúp</a>
@@ -792,7 +935,6 @@
                 <p>Thứ 7: 8:00 đến 22:00</p>
                 <p>Chủ nhật: 8:00 đến 22:00</p>
             </div>
-        </div>
         </div>
         <div class="bottom">
             <div class="share">

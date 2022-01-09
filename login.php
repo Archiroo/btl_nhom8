@@ -10,18 +10,7 @@
 </head>
 
 <body>
-    <div class="login">
-        
-        <form action="" method="POST">
-            <h3>ĐĂNG NHẬP</h3>
-            <span>Tài khoản</span>
-            <input type="text" class="box" name="username" placeholder="Tên tài khoản">
-            <span>Mật khẩu</span>
-            <input type="password" class="box" name="password" placeholder="Mật khẩu">
-            <input type="submit" value="Đăng nhập" class="btn" name="submit">
-            <p>Quên mật khẩu ? <a href="#">Bấm vào đây.</a></p>
-        </form>
-    </div>
+    
 </body>
 
 </html>

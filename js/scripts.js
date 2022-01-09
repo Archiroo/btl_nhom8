@@ -20,3 +20,56 @@ previewBox.forEach(close =>{
     preveiwContainer.style.display = 'none';
   };
 });
+
+
+// Hủy
+function toast({
+  title = '',
+  message = '',
+  type = 'success',
+  duration = 3000
+}) {
+      const main = document.getElementById('toast');
+      if (main) {
+          const toast = document.createElement('div');
+          const icons = {
+              success: 'fas fa-check-circle',
+              info: 'fas fa-info-circle',
+              warning: 'fas fa-exclamation-circle',
+              error: 'fas fa-exclamation-circle',
+          }
+          const icon = icons[type];
+          toast.classList.add('toast', `toast--${type}`);
+          toast.innerHTML = `
+          <div class="toast__icon">
+                  <i class="${icon}"></i>
+              </div>
+              <div class="toast__body">
+                  <h3 class="toast__title">${title}</h3>
+                  <p class="toast__msg">${message}</p>
+              </div>
+              <div class="toast__close">
+                  <i class="fas fa-times"></i>
+              </div>
+          </div>
+          `;
+          main.appendChild(toast);
+      }
+
+}
+function showSuccessToast() {
+  toast({
+      title: 'Thông báo',
+      message: 'Bạn đã đặt hàng thành công!',
+      type: 'success',
+      duration: 3000
+  });
+}
+function showErrorToast(){
+  toast({
+      title: 'Thông báo',
+      message: 'Có lỗi xảy ra',
+      type: 'error',
+      duration: 3000
+  });
+}

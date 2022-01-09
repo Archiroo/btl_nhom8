@@ -368,24 +368,6 @@
         </div>
     </header>
     <section class="order" id="order">
-        <div class="heading">
-            <span>Đặt ngay</span>
-            <h3>Giao hàng tận nơi</h3>
-        </div>
-        <div class="icons-container">
-            <div class="icons">
-                <img src="image/icon-1.png" alt="">
-                <h3>7:00 đến 22:30</h3>
-            </div>
-            <div class="icons">
-                <img src="image/icon-2.png" alt="">
-                <h3>096 5269 082</h3>
-            </div>
-            <div class="icons">
-                <img src="image/icon-3.png" alt="">
-                <h3>57, Thái Hà - Đống Đa - Hà Nội</h3>
-            </div>
-        </div>
         <form action="">
             <div class="flex">
                 <div class="inputBox">
@@ -394,17 +376,7 @@
                 </div>
                 <div class="inputBox">
                     <span>Số điện thoại</span>
-                    <input type="number" placeholder="096 5269 082" name="" id="">
-                </div>
-            </div>
-            <div class="flex">
-                <div class="inputBox">
-                    <span>Lưu ý cho cửa hàng</span>
-                    <input type="text" placeholder="Lưu ý..." name="" id="">
-                </div>
-                <div class="inputBox">
-                    <span>Chọn thời gian</span>
-                    <input type="datetime-local">
+                    <input type="phone" placeholder="096 5269 082" name="" id="">
                 </div>
             </div>
             <div class="flex">
@@ -415,6 +387,11 @@
                     <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.525305593949!2d105.81907701493239!3d21.01165718600766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7dbe014e0b%3A0x741128e73301c5ff!2zNTcgUC4gVGjDoWkgSMOgLCBUcnVuZyBMaeG7h3QsIMSQ4buRbmcgxJBhLCBIw6AgTuG7mWk!5e0!3m2!1sen!2s!4v1641206928270!5m2!1sen!2s" allowfullscreen="" loading="lazy"></iframe>
                 </div>
             </div>
-            <input type="submit" value="Xác nhận đặt món" class="btn">
+            <div id="toast">
+            </div>
+            <div onclick="showSuccessToast();" class="btn_message btn--success">Xác nhận</div>
+            <a href="index.php" class="btn btn_huy">Hủy bỏ</a>
+
         </form>
     </section>
+    <script src="js/scripts.js"></script>

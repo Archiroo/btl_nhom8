@@ -82,3 +82,13 @@ document.querySelector('#login-btn').onclick = () =>{
 document.querySelector('#close-login-btn').onclick = () =>{
     loginForm.classList.remove('active');
 }
+
+
+let signupForm = document.querySelector('.signup-form-container');
+document.querySelector('#sign-up').onclick = () =>{
+    signupForm.classList.toggle('active');
+}
+
+document.querySelector('#close-signup-btn').onclick = () =>{
+    signupForm.classList.remove('active');
+}

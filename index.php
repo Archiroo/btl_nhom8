@@ -110,7 +110,7 @@
                         <!--ấn vào được-->
                     </li>
                     <a href="#" class="header__navbar-item header__navbar-item-strong header__navbar-item--separate" id="login-btn">Đăng nhập</a>
-                    <a href="#" class="header__navbar-item header__navbar-item-strong">Đăng ký</a>
+                    <a href="#" class="header__navbar-item header__navbar-item-strong" id="sign-up">Đăng ký</a>
                     <!-- <li class="header__navbar-item header-navbar-user">
                         <img src="image/admin.jpg" alt="" class="header__navbar-user-img">
                         <span class="header__navbar-user-name">4FFood</span>
@@ -133,9 +133,9 @@
                         <form action="" method="POST">
                             <h3>Đăng nhập</h3>
                             <span>Tài khoản</span>
-                            <input type="text" name="user_name" class="box" placeholder="Enter your username" id="">
+                            <input type="text" name="user_name" class="box" placeholder="User" id="">
                             <span>Mật khẩu</span>
-                            <input type="password" name="user_pass" class="box" placeholder="Enter your password" id="">
+                            <input type="password" name="user_pass" class="box" placeholder="Password" id="">
                             <div class="checkbox">
                                 <input type="checkbox" name="" class="remember-me">
                                 <label for="remember-me">Nhớ mật khẩu</label>
@@ -143,6 +143,23 @@
                             <!-- <input type="submit" value="Sign in" class="btn btn-sign-in" name="login"> -->
                             <button type="submit" name="login" class="btn btn-sign-in">Đăng nhập</button>
                             <p>Quên mật khẩu ? <a href="#">Bấm vào đây</a></p>
+                        </form>
+                    </div>
+
+                    <!-- Form đăng kí -->
+                    <div class="signup-form-container signup">
+                        <div id="close-signup-btn" class="fas fa-times close"></div>
+                        <form action="" method="POST">
+                            <h3>Đăng ký</h3>
+                            <span>Tài khoản</span>
+                            <input type="text" name="user_name1" class="box" placeholder="Enter your username" id="">
+                            <span>Mật khẩu</span>
+                            <input type="password" name="user_pass1" class="box" placeholder="Enter your password" id="">
+                            <span>Xác nhận mật khẩu</span>
+                            <input type="password" name="user_pass1" class="box" placeholder="Enter your password" id="">
+                            <!-- <input type="submit" value="Sign in" class="btn btn-sign-in" name="login"> -->
+                            <button type="submit" name="signup" class="btn btn-sign-in">Đăng ký</button>
+                            
                         </form>
                     </div>
 

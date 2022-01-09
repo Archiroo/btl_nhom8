@@ -1229,7 +1229,7 @@ section {
   content: "";
   display: block;
   position: absolute;
-  border-left: 0.1rem solid #fff;
+  border-left: 0.1rem solid var(--white--color);
   height: 16px;
   right: -9px;
   top: 50%;
@@ -2578,19 +2578,66 @@ i.home-product-item__like-icon-fill{
   font-size: 3rem;
   cursor: pointer;
 }
-/*SIGN UP FORM*/
-.login-form-container form .sign-up{
-  display: flex;
-  justify-content: space-between;
-}
-.login-form-container form .sign-up .btn-sign-up{
-  text-align: center;
-  width: 47%;
-  margin: 1.5rem 0;
-}
 .close {
   color: #fff;
 }
 .close:hover{
   transform: rotate(90deg);
+}
+
+/* Form đăng ký */
+.signup-form-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.08);
+  position: fixed;
+  top: 0;
+  z-index: 101;
+  height: 100%;
+  width: 100%;
+}
+.signup{
+  right: -105%;
+}
+.signup-form-container.active{
+  right: 0;
+}
+.signup-form-container form{
+  background: #fff;
+  border: 0.1rem solid rgba(0,0,0,0.1);
+  width: 40rem;
+  padding: 2rem;
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1);
+  border-radius: 0.5rem;
+  margin: 2rem;
+}
+.signup-form-container form h3{
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  color: #555;
+  text-align: center;
+}
+.signup-form-container form span{
+  display: block;
+  font-size: 1.5rem;
+  padding-top: 1rem;
+}
+.signup-form-container form .box{
+  width: 100%;
+  margin: 0.7rem 0;
+  font-size: 1.6rem;
+  border: 0.1rem solid rgba(0,0,0,0.1);
+  border-radius: 0.5rem;
+  padding: 1rem 1.2rem;
+  color: #444;
+  text-transform: none;
+}
+
+.signup-form-container #close-signup-btn{
+  position: absolute;
+  top: 1.5rem;
+  right: 2.5rem;
+  font-size: 3rem;
+  cursor: pointer;
 }

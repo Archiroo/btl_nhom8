@@ -130,7 +130,7 @@
                     <!-- Form đăng nhập -->
                     <div class="login-form-container login">
                         <div id="close-login-btn" class="fas fa-times close"></div>
-                        <form action="" method="POST">
+                        <form action="login.php" method="POST">
                             <h3>Đăng nhập</h3>
                             <span>Tài khoản</span>
                             <input type="text" name="user_name" class="box" placeholder="User" id="">
@@ -141,8 +141,11 @@
                                 <label for="remember-me">Nhớ mật khẩu</label>
                             </div>
                             <!-- <input type="submit" value="Sign in" class="btn btn-sign-in" name="login"> -->
-                            <button type="submit" name="login" class="btn btn-sign-in">Đăng nhập</button>
+                            <input type="submit" name="login" class="btn btn-sign-in">Đăng nhập</input>
                             <p>Quên mật khẩu ? <a href="#">Bấm vào đây</a></p>
+                            <?php 
+
+                            ?>
                         </form>
                     </div>
 

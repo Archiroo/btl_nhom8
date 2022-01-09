@@ -123,7 +123,7 @@
                                 <a href="">Đơn mua</a>
                             </li>
                             <li class="header__navbar-user-item header__navbar-user-item--separate">
-                                <a href="">Đăng xuất</a>
+                                <a href="index.php">Đăng xuất</a>
                             </li>
                         </ul>
                     </li>
@@ -178,21 +178,21 @@
                 <div class="header__cart">
                     <div class="header__cart-wrap">
                         <i class="header__cart-icon fas fa-shopping-cart"></i>
-                        <span class="header__cart-notice">3</span>
+                        <span class="header__cart-notice">7</span>
 
                         <!--không có sản phẩm header__cart-list--no-cart-->
                         <div class="header__cart-list">
-                            <img src="./assets/img/no_cart.png" alt="" class="header__cart-no-cart-img">
+                            <img src="image/no_cart.png" alt="" class="header__cart-no-cart-img">
                             <span class="header__cart-list-no-cart-msg">Chưa có sản phẩm</span>
 
                             <h4 class="header__cart-heading">Sản phẩm đã thêm</h4>
                             <ul class="header__cart-list-item">
                                 <!--giỏ hàng item-->
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -201,17 +201,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/016f33534b47d593c8a9d142c3e579d6_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">The ordinary Ha 2%</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -220,17 +220,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/c890d6f7ed3a825e5b66068842bbfc7a_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Sữa rửa mặt cerave</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -239,17 +239,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -258,17 +258,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -277,17 +277,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -296,17 +296,17 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                                 <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
+                                    <img src="image/mon1.jpg" alt="" class="header__cart-img">
                                     <div class="header__cart-item-info">
                                         <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
+                                            <h5 class="header__cart-item-name">Buger 2 miếng bò phô mai</h5>
                                             <div class="header__cart-item-price-wrap">
                                                 <span class="header__cart-item-price">99.000đ</span>
                                                 <span class="header__cart-item-multiply">x</span>
@@ -315,52 +315,14 @@
                                         </div>
                                         <div class="header__cart-item-body">
                                             <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
-                                            </span>
-                                            <span class="header__cart-item-remove">Xóa</span>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="header__cart-item">
-                                    <img src="https://cf.shopee.vn/file/d1eb73e4009bc98a6e739355ad112cc7_tn" alt="" class="header__cart-img">
-                                    <div class="header__cart-item-info">
-                                        <div class="header__cart-item-head">
-                                            <h5 class="header__cart-item-name">Kem trị mụn Demaforte</h5>
-                                            <div class="header__cart-item-price-wrap">
-                                                <span class="header__cart-item-price">99.000đ</span>
-                                                <span class="header__cart-item-multiply">x</span>
-                                                <span class="header__car-item-qnt">2</span>
-                                            </div>
-                                        </div>
-                                        <div class="header__cart-item-body">
-                                            <span class="header__cart-item-description">
-                                                Phân loại: 15g
+                                                Phân loại: L
                                             </span>
                                             <span class="header__cart-item-remove">Xóa</span>
                                         </div>
                                     </div>
                                 </li>
                             </ul>
-                            <button class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</button>
+                            <a href="category.php" class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</a>
                         </div>
                     </div>
                 </div>
@@ -378,50 +340,50 @@
 
                 <div class="box">
                     <i class="fas fa-times"></i>
-                    <img src="image/menu-1.png" alt="">
+                    <img src="image/mon2.jpg" alt="">
                     <div class="content">
                         <h3>Burger 2 miếng bò</h3>
                         <span> Số lượng : </span>
                         <input type="number" name="" value="1" id="">
                         <br>
                         <span> Tổng tiền: </span>
-                        <span class="price"> 40.000 VNĐ</span>
+                        <span class="price"> 189.000 VNĐ</span>
                     </div>
                 </div>
                 <div class="box">
                     <i class="fas fa-times"></i>
-                    <img src="image/menu-1.png" alt="">
+                    <img src="image/mon2.jpg" alt="">
                     <div class="content">
                         <h3>Burger 2 miếng bò</h3>
                         <span> Số lượng : </span>
                         <input type="number" name="" value="1" id="">
                         <br>
                         <span> Tổng tiền: </span>
-                        <span class="price"> 40.000 VNĐ</span>
+                        <span class="price"> 189.000 VNĐ</span>
                     </div>
                 </div>
                 <div class="box">
                     <i class="fas fa-times"></i>
-                    <img src="image/menu-1.png" alt="">
+                    <img src="image/mon1.jpg" alt="">
                     <div class="content">
                         <h3>Burger 2 miếng bò</h3>
                         <span> Số lượng : </span>
                         <input type="number" name="" value="1" id="">
                         <br>
                         <span> Tổng tiền: </span>
-                        <span class="price"> 40.000 VNĐ</span>
+                        <span class="price"> 199.000 VNĐ</span>
                     </div>
                 </div>
                 <div class="box">
                     <i class="fas fa-times"></i>
-                    <img src="image/menu-1.png" alt="">
+                    <img src="image/mon1.jpg" alt="">
                     <div class="content">
                         <h3>Burger 2 miếng bò</h3>
                         <span> Số lượng : </span>
                         <input type="number" name="" value="1" id="">
                         <br>
                         <span> Tổng tiền: </span>
-                        <span class="price"> 40.000 VNĐ</span>
+                        <span class="price"> 199.000 VNĐ</span>
                     </div>
                 </div>
 

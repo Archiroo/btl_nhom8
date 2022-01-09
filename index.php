@@ -109,9 +109,9 @@
                             Trợ giúp</a>
                         <!--ấn vào được-->
                     </li>
-                    <!-- <li class="header__navbar-item header__navbar-item-strong header__navbar-item--separate">Đăng kí</li>
-                        <li class="header__navbar-item header__navbar-item-strong">Đăng nhập</li> -->
-                    <li class="header__navbar-item header-navbar-user">
+                    <a href="#" class="header__navbar-item header__navbar-item-strong header__navbar-item--separate" id="login-btn">Đăng nhập</a>
+                    <a href="#" class="header__navbar-item header__navbar-item-strong">Đăng ký</a>
+                    <!-- <li class="header__navbar-item header-navbar-user">
                         <img src="image/admin.jpg" alt="" class="header__navbar-user-img">
                         <span class="header__navbar-user-name">4FFood</span>
 
@@ -126,7 +126,26 @@
                                 <a href="">Đăng xuất</a>
                             </li>
                         </ul>
-                    </li>
+                    </li> -->
+                    <!-- Form đăng nhập -->
+                    <div class="login-form-container login">
+                        <div id="close-login-btn" class="fas fa-times close"></div>
+                        <form action="" method="POST">
+                            <h3>Đăng nhập</h3>
+                            <span>Tài khoản</span>
+                            <input type="text" name="user_name" class="box" placeholder="Enter your username" id="">
+                            <span>Mật khẩu</span>
+                            <input type="password" name="user_pass" class="box" placeholder="Enter your password" id="">
+                            <div class="checkbox">
+                                <input type="checkbox" name="" class="remember-me">
+                                <label for="remember-me">Nhớ mật khẩu</label>
+                            </div>
+                            <!-- <input type="submit" value="Sign in" class="btn btn-sign-in" name="login"> -->
+                            <button type="submit" name="login" class="btn btn-sign-in">Đăng nhập</button>
+                            <p>Quên mật khẩu ? <a href="#">Bấm vào đây</a></p>
+                        </form>
+                    </div>
+
                 </ul>
             </nav>
             <!--Header with search-->
@@ -360,7 +379,7 @@
                                     </div>
                                 </li>
                             </ul>
-                            <button class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</button>
+                            <a href="category.php" class="header__cart-view-cart btn btn--primary">Xem giỏ hàng</a>
                         </div>
                     </div>
                 </div>
@@ -377,26 +396,12 @@
     </section>
     <!-- shopping-cart section  -->
     <!-- login-form  -->
-    <div class="login-form-container">
-        <form action="">
-            <h3>login form</h3>
-            <input type="email" name="" placeholder="enter your email" id="" class="box">
-            <input type="password" name="" placeholder="enter your password" id="" class="box">
-            <div class="remember">
-                <input type="checkbox" name="" id="remember-me">
-                <label for="remember-me">remember me</label>
-            </div>
-            <input type="submit" value="login now" class="btn">
-            <p>forget password? <a href="#">click here</a></p>
-            <p>don't have an account? <a href="#">create one</a></p>
-        </form>
-    </div>
     <!-- home section starts  -->
     <section class="home" id="home">
         <div class="content">
             <span>Chào mừng đến với cửa hàng!</span>
             <h3>Các loại gia vị khác nhau mang đến khẩu vị khác nhau.</h3>
-            <a href="#" class="btn">Đặt ngay</a>
+            <a href="order.php" class="btn">Đặt ngay</a>
         </div>
         <div class="image">
             <img src="image/home-img.png" alt="" class="home-img">
@@ -473,7 +478,7 @@
                 <span>Gấp đôi phô mai</span>
                 <h3>Bánh mỳ</h3>
                 <p>Với coca và khoai tây chiên</p>
-                <a href="#" class="btn">Đặt ngay</a>
+                <a href="order.php" class="btn">Đặt ngay</a>
             </div>
         </div>
         <div class="grid-banner">
@@ -482,7 +487,7 @@
                 <div class="content">
                     <span>Giảm giá</span>
                     <h3>Lên đến 50%</h3>
-                    <a href="#" class="btn">Đặt ngay</a>
+                    <a href="order.php" class="btn">Đặt ngay</a>
                 </div>
             </div>
             <div class="grid">
@@ -498,7 +503,7 @@
                 <div class="content">
                     <span>Đặc biệt</span>
                     <h3>Hoàn tiền 100%</h3>
-                    <a href="#" class="btn">Đặt ngay</a>
+                    <a href="order.php" class="btn">Đặt ngay</a>
                 </div>
             </div>
         </div>
@@ -534,7 +539,7 @@
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
-                                            
+
                                         </div>
                                         <span class="home-product-item__sold">155 đã bán</span>
                                     </div>
@@ -607,7 +612,7 @@
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
-                                            
+
                                         </div>
                                         <span class="home-product-item__sold">155 đã bán</span>
                                     </div>
@@ -752,7 +757,7 @@
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
-                                            
+
                                         </div>
                                         <span class="home-product-item__sold">155 đã bán</span>
                                     </div>
@@ -804,8 +809,8 @@
                                 </div>
                             </div>
                         </div>
-                        
-                        
+
+
                     </div>
                 </div>
 
@@ -846,57 +851,6 @@
         </div>
     </div>
     </div>
-    <section class="order" id="order">
-        <div class="heading">
-            <span>Đặt ngay</span>
-            <h3>Giao hàng tận nơi</h3>
-        </div>
-        <div class="icons-container">
-            <div class="icons">
-                <img src="image/icon-1.png" alt="">
-                <h3>7:00 đến 22:30</h3>
-            </div>
-            <div class="icons">
-                <img src="image/icon-2.png" alt="">
-                <h3>096 5269 082</h3>
-            </div>
-            <div class="icons">
-                <img src="image/icon-3.png" alt="">
-                <h3>57, Thái Hà - Đống Đa - Hà Nội</h3>
-            </div>
-        </div>
-        <form action="">
-            <div class="flex">
-                <div class="inputBox">
-                    <span>Họ và tên</span>
-                    <input type="text" placeholder="4 Funn Food" name="" id="">
-                </div>
-                <div class="inputBox">
-                    <span>Số điện thoại</span>
-                    <input type="number" placeholder="096 5269 082" name="" id="">
-                </div>
-            </div>
-            <div class="flex">
-                <div class="inputBox">
-                    <span>Lưu ý cho cửa hàng</span>
-                    <input type="text" placeholder="Lưu ý..." name="" id="">
-                </div>
-                <div class="inputBox">
-                    <span>Chọn thời gian</span>
-                    <input type="datetime-local">
-                </div>
-            </div>
-            <div class="flex">
-                <div class="inputBox">
-                    <textarea placeholder="Địa chỉ nhận hàng" id="" cols="30" rows="10"></textarea>
-                </div>
-                <div class="inputBox">
-                    <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.525305593949!2d105.81907701493239!3d21.01165718600766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab7dbe014e0b%3A0x741128e73301c5ff!2zNTcgUC4gVGjDoWkgSMOgLCBUcnVuZyBMaeG7h3QsIMSQ4buRbmcgxJBhLCBIw6AgTuG7mWk!5e0!3m2!1sen!2s!4v1641206928270!5m2!1sen!2s" allowfullscreen="" loading="lazy"></iframe>
-                </div>
-            </div>
-            <input type="submit" value="Xác nhận đặt món" class="btn">
-        </form>
-    </section>
     <!-- order section ends -->
     <!-- blogs section starts  -->
     <section class="blogs" id="blogs">
@@ -917,7 +871,7 @@
                         <a href="#"> <i class="fas fa-tag"></i> pizza </a>
                     </div>
                     <h3>Hamburger</h3>
-                    <p>Hamburgers ở Úc và New Zealand thường có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua. Đây chắc chắn là một món bánh ngon mà bạn nên thử.
+                    <p>Hamburgers ở Úc và New Zealand thường có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua mà bạn nên thử.
                     </p>
                     <a href="#" class="btn">Đọc thêm</a>
                 </div>
@@ -934,7 +888,7 @@
                         <a href="#"> <i class="fas fa-tag"></i> pizza </a>
                     </div>
                     <h3>Burrito</h3>
-                    <p>Burrito là gì? Burrito là một món bánh truyền thống của Mexico, có hai thành phần chính đó là vỏ bánh và nhân bánh. Sự kết hợp giữa các thành phần trong món bánh Burrito này mang đến cho người thưởng thức cảm giác thích thú, ngon miệng và bị cuốn hút bởi độ dai giòn của vỏ bánh kết hợp với phần nhân bánh thơm ngon. Đây chắc chắn là một món bánh ngon mà bạn nên thử.
+                    <p>Burrito là gì? Burrito là một món bánh truyền thống của Mexico, có hai thành phần chính đó là vỏ bánh và nhân bánh. Sự kết hợp giữa các thành phần trong món bánh Burrito này mang đến cho người thưởng thức cảm giác thích thú, ngon miệng và bị cuốn hút bởi độ dai giòn của vỏ bánh kết hợp với phần nhân bánh thơm ngon mà bạn nên thử.
                     </p>
                     <a href="#" class="btn">Đọc thêm</a>
                 </div>
@@ -951,7 +905,7 @@
                         <a href="#"> <i class="fas fa-tag"></i> pizza </a>
                     </div>
                     <h3>Hamburger Đặc Biệt</h3>
-                    <p>Hamburgers có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua. Và đặc biệt là có khoai tây chiên. Đây chắc chắn là một món bánh ngon mà bạn nên thử.</p>
+                    <p>Hamburgers có cà chua, rau diếp, pho mát và một ít thịt (có tẩm nước sốt BBQ hoặc nước sốt cà chua), và thường có củ cải đường, hành tây, trứng, thịt hun khói và dứa (còn gọi là "burger with the lot). "BLT" có nghĩa là hamburger dùng kèm với thịt hun khói, rau diếp, và cà chua. Và đặc biệt là có khoai tây chiên mà bạn nên thử.</p>
                     <a href="#" class="btn">Đọc thêm</a>
                 </div>
             </div>
@@ -1027,10 +981,10 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>    
+                <i class="fas fa-star"></i>
                 <span>( 155 )</span>
             </div>
-            
+
             <div class="price">299.000 VND</div>
             <div class="buttons">
                 <a href="order.php" class="buy">Mua ngay</a>

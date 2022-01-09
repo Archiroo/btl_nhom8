@@ -73,7 +73,7 @@
                                         <a href="" class="header__notify-link header__notify-item--viewed">
                                             <img src="" alt="" class="header__notify-img">
                                             <div class="header__notify-info">
-                                                <span class="header__notify-name">Xác thực chính hãng nguồn gốc các sản phẩm Archiro</span>
+                                                <span class="header__notify-name">Xác thực chính hãng nguồn gốc các sản phẩm 4FFood</span>
                                                 <span class="header__notify-descriotion">HiddenTag là giải pháp xác thực hàng chính hãng bằng công nghệ tiên tiến nhất hiện nay</span>
                                             </div>
                                         </a>
@@ -113,7 +113,7 @@
                         <li class="header__navbar-item header__navbar-item-strong">Đăng nhập</li> -->
                     <li class="header__navbar-item header-navbar-user">
                         <img src="image/admin.jpg" alt="" class="header__navbar-user-img">
-                        <span class="header__navbar-user-name">Archiro</span>
+                        <span class="header__navbar-user-name">4FFood</span>
 
                         <ul class="header__navbar-user-menu">
                             <li class="header__navbar-user-item">
@@ -583,13 +583,12 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <div class="products-container">
-
                                 <div class="home-product-item product" data-name="p-1">
-                                    <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                    <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
+                                    <div class="home-product-item__img" style="background-image: url(image/mon1.jpg);"></div>
+                                    <h4 class="home-product-item__name">Combo 2 miếng bò khoai giòn tràn phô mai (cocacola)</h4>
                                     <div class="home-product-item__price">
-                                        <span class="home-product-item__price-old">550.000đ</span>
-                                        <span class="home-product-item__price-current">460.000đ</span>
+                                        <span class="home-product-item__price-old">350.000đ</span>
+                                        <span class="home-product-item__price-current">299.000đ</span>
                                     </div>
                                     <div class="home-product-item__action">
                                         <span class="home-product-item__like home-product-item__like--liked">
@@ -601,17 +600,18 @@
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
                                             <i class="home-product-item__star--gold fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            
                                         </div>
-                                        <span class="home-product-item__sold">88 đã bán</span>
+                                        <span class="home-product-item__sold">155 đã bán</span>
                                     </div>
                                     <div class="home-product-item__origin">
-                                        <span class="home-product-item__brand">Archiro</span>
-                                        <span class="home-product-item__origin-name">Ninh Bình</span>
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
                                     </div>
 
                                     <div class="home-product-item__sale-off">
-                                        <span class="home-product-item__sale-off-percent">43%</span>
+                                        <span class="home-product-item__sale-off-percent">15%</span>
                                         <span class="home-product-item__sale-off-label">GIẢM</span>
                                     </div>
                                 </div>
@@ -619,242 +619,260 @@
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-2">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon2.jpg);"></div>
+                                    <h4 class="home-product-item__name">Burger 2 miếng bò khoai giòn tràn phô mai (bánh lớn)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">235.000đ</span>
+                                        <span class="home-product-item__price-current">189.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                        </div>
+                                        <span class="home-product-item__sold">884 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">20%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/r/crunchy_whp-min_1.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-1">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon1.jpg);"></div>
+                                    <h4 class="home-product-item__name">Combo 2 miếng bò khoai giòn tràn phô mai (cocacola)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">350.000đ</span>
+                                        <span class="home-product-item__price-current">299.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            
+                                        </div>
+                                        <span class="home-product-item__sold">155 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">15%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/d/o/double_whopper_bbq_bacon_cheese.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-2">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon2.jpg);"></div>
+                                    <h4 class="home-product-item__name">Burger 2 miếng bò khoai giòn tràn phô mai (bánh lớn)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">235.000đ</span>
+                                        <span class="home-product-item__price-current">189.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                        </div>
+                                        <span class="home-product-item__sold">884 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">20%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-1">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon1.jpg);"></div>
+                                    <h4 class="home-product-item__name">Combo 2 miếng bò khoai giòn tràn phô mai (cocacola)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">350.000đ</span>
+                                        <span class="home-product-item__price-current">299.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                        </div>
+                                        <span class="home-product-item__sold">155 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">15%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-2">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon2.jpg);"></div>
+                                    <h4 class="home-product-item__name">Burger 2 miếng bò khoai giòn tràn phô mai (bánh lớn)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">235.000đ</span>
+                                        <span class="home-product-item__price-current">189.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                        </div>
+                                        <span class="home-product-item__sold">884 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">20%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-1">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon1.jpg);"></div>
+                                    <h4 class="home-product-item__name">Combo 2 miếng bò khoai giòn tràn phô mai (cocacola)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">350.000đ</span>
+                                        <span class="home-product-item__price-current">299.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            
+                                        </div>
+                                        <span class="home-product-item__sold">155 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">15%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
                         <div class="grid__column-2-4">
                             <!--Product item-->
-                            <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
-                                <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
-                                <div class="home-product-item__price">
-                                    <span class="home-product-item__price-old">550.000đ</span>
-                                    <span class="home-product-item__price-current">460.000đ</span>
-                                </div>
-                                <div class="home-product-item__action">
-                                    <span class="home-product-item__like home-product-item__like--liked">
-                                        <i class="home-product-item__like-icon-empty far fa-heart"></i>
-                                        <i class="home-product-item__like-icon-fill fas fa-heart"></i>
-                                    </span>
-                                    <div class="home-product-item__rating">
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="home-product-item__star--gold fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
+                            <div class="products-container">
+                                <div class="home-product-item product" data-name="p-2">
+                                    <div class="home-product-item__img" style="background-image: url(image/mon2.jpg);"></div>
+                                    <h4 class="home-product-item__name">Burger 2 miếng bò khoai giòn tràn phô mai (bánh lớn)</h4>
+                                    <div class="home-product-item__price">
+                                        <span class="home-product-item__price-old">235.000đ</span>
+                                        <span class="home-product-item__price-current">189.000đ</span>
                                     </div>
-                                    <span class="home-product-item__sold">88 đã bán</span>
-                                </div>
-                                <div class="home-product-item__origin">
-                                    <span class="home-product-item__brand">Archiro</span>
-                                    <span class="home-product-item__origin-name">Ninh Bình</span>
-                                </div>
+                                    <div class="home-product-item__action">
+                                        <span class="home-product-item__like home-product-item__like--liked">
+                                            <i class="home-product-item__like-icon-empty far fa-heart"></i>
+                                            <i class="home-product-item__like-icon-fill fas fa-heart"></i>
+                                        </span>
+                                        <div class="home-product-item__rating">
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                            <i class="home-product-item__star--gold fas fa-star"></i>
+                                        </div>
+                                        <span class="home-product-item__sold">884 đã bán</span>
+                                    </div>
+                                    <div class="home-product-item__origin">
+                                        <span class="home-product-item__brand">4FFood</span>
+                                        <span class="home-product-item__origin-name">57, Thái Hà</span>
+                                    </div>
 
-                                <div class="home-product-item__sale-off">
-                                    <span class="home-product-item__sale-off-percent">43%</span>
-                                    <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    <div class="home-product-item__sale-off">
+                                        <span class="home-product-item__sale-off-percent">20%</span>
+                                        <span class="home-product-item__sale-off-label">GIẢM</span>
+                                    </div>
                                 </div>
-                            </a>
+                            </div>
                         </div>
+                        
+                        
                     </div>
                 </div>
 
@@ -1067,124 +1085,42 @@
     <!-- footer section ends -->
     <!-- custom js file link  -->
     <div class="products-preview">
-
         <div class="preview" data-target="p-1">
             <i class="fas fa-times"></i>
-            <img src="images/1.png" alt="">
-            <h3>organic strawberries</h3>
+            <img src="image/mon1.jpg" alt="">
+            <h3>Combo 2 miếng bò giòn khoai giòn tràn phô mai (cocacola)</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
+                <i class="fas fa-star"></i>    
+                <span>( 155 )</span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
+            
+            <div class="price">299.000 VND</div>
             <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
+                <a href="#" class="buy">Mua ngay</a>
+                <a href="#" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>
 
         <div class="preview" data-target="p-2">
             <i class="fas fa-times"></i>
-            <img src="images/2.png" alt="">
-            <h3>organic onions</h3>
+            <img src="image/mon2.jpg" alt="">
+            <h3>Buger 2 miếng bò khoai giòn tràn phô mai (bánh lớn)</h3>
             <div class="stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
+                <i class="fas fa-star"></i>
+                <span>( 884 )</span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
+            <div class="price">189.000 VND</div>
             <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
-            </div>
-        </div>
-
-        <div class="preview" data-target="p-3">
-            <i class="fas fa-times"></i>
-            <img src="images/3.png" alt="">
-            <h3>organic tomatoes</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
-            <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
-            </div>
-        </div>
-
-        <div class="preview" data-target="p-4">
-            <i class="fas fa-times"></i>
-            <img src="images/4.png" alt="">
-            <h3>organic brinjal</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
-            <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
-            </div>
-        </div>
-
-        <div class="preview" data-target="p-5">
-            <i class="fas fa-times"></i>
-            <img src="images/5.png" alt="">
-            <h3>organic broccoli</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
-            <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
-            </div>
-        </div>
-
-        <div class="preview" data-target="p-6">
-            <i class="fas fa-times"></i>
-            <img src="images/6.png" alt="">
-            <h3>organic potatoes</h3>
-            <div class="stars">
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star"></i>
-                <i class="fas fa-star-half-alt"></i>
-                <span>( 250 )</span>
-            </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, dolorem.</p>
-            <div class="price">$2.00</div>
-            <div class="buttons">
-                <a href="#" class="buy">buy now</a>
-                <a href="#" class="cart">add to cart</a>
+                <a href="#" class="buy">Mua ngay</a>
+                <a href="#" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>
 

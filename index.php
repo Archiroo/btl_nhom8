@@ -580,10 +580,10 @@
                 <div class="home-product">
                     <!--Grid -> Row -> Column-->
                     <div class="grid__row">
-                        <div class="grid__column-2-4 home-product-item-wrapper">
+                        <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -607,10 +607,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -620,7 +617,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -644,10 +641,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -657,7 +651,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/316x/9df78eab33525d08d6e5fb8d27136e95/c/r/crunchy_whp-min_1.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -681,10 +675,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -694,7 +685,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/d/o/double_whopper_bbq_bacon_cheese.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -718,10 +709,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -731,7 +719,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -755,10 +743,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -768,7 +753,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -792,10 +777,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -805,7 +787,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -829,10 +811,7 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
@@ -842,7 +821,7 @@
                         <div class="grid__column-2-4">
                             <!--Product item-->
                             <a class="home-product-item" href="#">
-                                <div class="home-product-item__img" style="background-image: url(https://cf.shopee.vn/file/e69d4f49e51a90e2175f8e2944ee1aa8_tn);"></div>
+                                <div class="home-product-item__img" style="background-image: url(https://burgerking.vn/media/catalog/product/cache/1/small_image/300x/9df78eab33525d08d6e5fb8d27136e95/c/o/combo_dbl_crunchy_whp-min.jpg);"></div>
                                 <h4 class="home-product-item__name">Giày sneaker cổ cao | Jordan 1 Retro High Turbo Green cao cổ xanh ngọc full box free ship</h4>
                                 <div class="home-product-item__price">
                                     <span class="home-product-item__price-old">550.000đ</span>
@@ -866,17 +845,13 @@
                                     <span class="home-product-item__brand">Archiro</span>
                                     <span class="home-product-item__origin-name">Ninh Bình</span>
                                 </div>
-                                <div class="home-product-item__favourite">
-                                    <i class="fas fa-check"></i>
-                                    <span>Yêu thích</span>
-                                </div>
+                                
                                 <div class="home-product-item__sale-off">
                                     <span class="home-product-item__sale-off-percent">43%</span>
                                     <span class="home-product-item__sale-off-label">GIẢM</span>
                                 </div>
                             </a>
                         </div>
-
                     </div>
                 </div>
 

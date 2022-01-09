@@ -1033,7 +1033,7 @@
             
             <div class="price">299.000 VND</div>
             <div class="buttons">
-                <a href="#" class="buy">Mua ngay</a>
+                <a href="order.php" class="buy">Mua ngay</a>
                 <a href="category.php" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>
@@ -1052,7 +1052,7 @@
             </div>
             <div class="price">189.000 VND</div>
             <div class="buttons">
-                <a href="#" class="buy">Mua ngay</a>
+                <a href="order.php" class="buy">Mua ngay</a>
                 <a href="category.php" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>

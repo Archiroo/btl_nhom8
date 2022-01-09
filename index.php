@@ -376,73 +376,6 @@
         </form>
     </section>
     <!-- shopping-cart section  -->
-    <section class="shopping-cart-container">
-        <div class="products-container">
-            <h3 class="title">Giỏ hàng</h3>
-            <div class="box-container">
-                <div class="box">
-                    <i class="fas fa-times"></i>
-                    <img src="image/menu-1.png" alt="">
-                    <div class="content">
-                        <h3>Bánh mỳ kẹp</h3>
-                        <span> Quantity : </span>
-                        <input type="number" name="" value="1" id="">
-                        <br>
-                        <span> Price : </span>
-                        <span class="price"> 40.000 VND </span>
-                    </div>
-                </div>
-                <div class="box">
-                    <i class="fas fa-times"></i>
-                    <img src="image/food-3.png" alt="">
-                    <div class="content">
-                        <h3>Pizza hải sản</h3>
-                        <span> Quantity : </span>
-                        <input type="number" name="" value="1" id="">
-                        <br>
-                        <span> Price : </span>
-                        <span class="price"> 149.000 VND </span>
-                    </div>
-                </div>
-                <div class="box">
-                    <i class="fas fa-times"></i>
-                    <img src="image/menu-5.png" alt="">
-                    <div class="content">
-                        <h3>Khoai tây chiên</h3>
-                        <span> Quantity : </span>
-                        <input type="number" name="" value="3" id="">
-                        <br>
-                        <span> Price : </span>
-                        <span class="price"> 90.000 VND </span>
-                    </div>
-                </div>
-                <div class="box">
-                    <i class="fas fa-times"></i>
-                    <img src="image/food-2.png" alt="">
-                    <div class="content">
-                        <h3>Bánh mỳ kẹp bò</h3>
-                        <span> Quantity : </span>
-                        <input type="number" name="" value="2" id="">
-                        <br>
-                        <span> Price : </span>
-                        <span class="price"> 110.000 VND </span>
-                    </div>
-                </div>
-                <div class="box">
-                    <i class="fas fa-times"></i>
-                    <img src="image/food-5.png" alt="">
-                    <div class="content">
-                        <h3>Pizza bò khô</h3>
-                        <span> Quantity : </span>
-                        <input type="number" name="" value="1" id="">
-                        <br>
-                        <span> Price : </span>
-                        <span class="price"> 99.000 VND </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
     <!-- login-form  -->
     <div class="login-form-container">
         <form action="">
@@ -1101,7 +1034,7 @@
             <div class="price">299.000 VND</div>
             <div class="buttons">
                 <a href="#" class="buy">Mua ngay</a>
-                <a href="#" class="cart">Thêm giỏ hàng</a>
+                <a href="category.php" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>
 
@@ -1120,11 +1053,11 @@
             <div class="price">189.000 VND</div>
             <div class="buttons">
                 <a href="#" class="buy">Mua ngay</a>
-                <a href="#" class="cart">Thêm giỏ hàng</a>
+                <a href="category.php" class="cart">Thêm giỏ hàng</a>
             </div>
         </div>
-
     </div>
+    <div id="toast"></div>
     <script src="js/scripts.js"></script>
 </body>
 
